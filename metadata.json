@@ -1,0 +1,6 @@
+{
+  "name": "Smart ToDo",
+  "description": "A modern, lightweight, and highly optimized Android To-Do & Smart Reminder App with automated reminder logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
